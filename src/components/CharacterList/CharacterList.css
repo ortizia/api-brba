@@ -1,0 +1,7 @@
+.CharacterList-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 40px 0 40px 0;
+  gap: 40px;
+  background: rgba(9, 0, 0, 0.5);
+}
